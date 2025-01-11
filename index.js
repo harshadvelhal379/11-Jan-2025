@@ -5,3 +5,4 @@ console.log(a);
 
 
 
+let b=30
